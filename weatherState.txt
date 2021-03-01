@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 today it's cloudy 
+=======
+today it's coluudy
+>>>>>>> 9127cec7f4a047cbe1059f9620a115c3b362f42d
